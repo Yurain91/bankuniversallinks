@@ -4,7 +4,11 @@
 		"details": [
 			{
 				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.dev",
-				"paths": [ "/products/"]
+				"paths": [ "/app/newproducts/"]
+			},
+			{
+				"appID": "FWCVHD4QJY.com.iTul.ecodo",
+				"paths": [ "/app/newproducts/"]
 			}
 		]
 	}
