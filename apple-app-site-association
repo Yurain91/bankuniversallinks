@@ -5,6 +5,18 @@
 			{
 				"appID": "FWCVHD4QJY.com.iTul.ecodo",
 				"paths": ["/app/newproduct/"]
+			},
+			{
+				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.dev",
+				"paths": ["/app/newproducts/"]
+			},
+			{
+				"appID": "7VY6U9V635.ru rosbank mb ios",
+				"paths": ["/app/newproducts/"]
+			},
+			{
+				"appID": "7VY6U9V635.ru.rosbank.mb.ios.beta",
+				"paths": ["/app/newproducts/"]
 			}
 		]
 	}
