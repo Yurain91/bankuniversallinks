@@ -1,13 +1,15 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [{
+		"details": [
+			{
 				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.dev",
-				"paths": ["/app/newproducts/", "/products/"]
+				"paths": [ "/app/newproducts/"]
 			},
 			{
 				"appID": "FWCVHD4QJY.com.iTul.ecodo",
-				"paths": ["/app/newproducts/", "/products/"]
-			}]
+				"paths": [ "/app/newproducts/"]
+			}
+		]
 	}
 }
