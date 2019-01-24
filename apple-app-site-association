@@ -5,6 +5,10 @@
 			{
 				"appID": "FWCVHD4QJY.com.iTul.ecodo",
 				"paths": [ "/app/test/", "/app/newproducts/" ]
+			},
+			{
+				"appID": "FWCVHD4QJY.com.iTul.universal.test",
+				"paths": [ "/app/test/", "/app/newproducts/" ]
 			}
 		]
 	}
