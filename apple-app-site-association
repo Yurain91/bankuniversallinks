@@ -3,12 +3,12 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "FWCVHD4QJY.com.iTul.ecodo",
-				"paths": [ "/app/test/", "/app/newproducts/" ]
+				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.dev",
+				"paths": [ "/app/newproducts/" ]
 			},
 			{
-				"appID": "FWCVHD4QJY.com.iTul.universal.test",
-				"paths": [ "/app/test/", "/app/newproducts/" ]
+				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.debug",
+				"paths": [ "/app/newproducts/" ]
 			}
 		]
 	}
