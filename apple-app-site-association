@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.dev",
-				"paths": [ "/app/newproducts/" ]
+				"paths": [ "/app/newproducts/", "/app/depo/", "/app/p2p/", "/app/2018results/" ]
 			},
 			{
 				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.debug",
