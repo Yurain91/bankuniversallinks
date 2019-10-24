@@ -9,6 +9,10 @@
 			{
 				"appID": "QUGY3G28TX.ru.rosbank.mb.ios.debug",
 				"paths": [ "/*" ]
+			},
+			{
+				"appID": "QUGY3G28TX.ua.aval.mobilebanking.client.ios",
+				"paths": [ "/*" ]
 			}
 		]
 	}
