@@ -13,7 +13,13 @@
 			{
 				"appID": "QUGY3G28TX.ua.aval.mobilebanking.client.ios",
 				"paths": [ "/*" ]
-			}
+			},
+			{
+                "appID": "QUGY3G28TX.ru.sngb.dbo.client.ios.dev",
+                "paths": [
+                    "/ibank/*"
+                ]
+            }
 		]
 	}
 }
