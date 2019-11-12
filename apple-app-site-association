@@ -16,7 +16,7 @@
 			},
 			{
 				"appID": "QUGY3G28TX.ru.sngb.dbo.client.ios.dev",
-				"paths": [ "/*" ]
+				"paths": [ "/ibank/*" ]
 			}
 		]
 	}
